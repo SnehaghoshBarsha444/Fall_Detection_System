@@ -21,13 +21,13 @@ Designed for **home care, clinical monitoring, and assisted-living environments*
    ```bash
    git clone https://github.com/SnehaghoshBarsha444/fall-detection-system.git
    cd fall-detection-system
-````
+
 
 2. **Install dependencies**
 
    ```bash
    pip install PyQt5 opencv-python mediapipe numpy Flask
-   ```
+
 
 ---
 
